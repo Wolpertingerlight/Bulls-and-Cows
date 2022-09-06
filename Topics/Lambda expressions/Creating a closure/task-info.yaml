@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.function.UnaryOperator;
+
+    class PrefixSuffixOperator {
+
+        public static final String PREFIX = "__pref__";
+        public static final String SUFFIX = "__suff__";
+
+        public static UnaryOperator<String> operator = // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2368#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #8 of 12. Wrong answer
+  time: Mon, 29 Aug 2022 13:53:36 UTC
+record: -1
