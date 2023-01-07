@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/ArrayList/Concat positive numbers/out/
+/Topics/ArrayList/Concat positive numbers/out/production/classes/
+/Topics/Math library/Pow/out/
+/Topics/Math library/Pow/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Create an euphonious word/out/
+/Topics/Processing strings/Create an euphonious word/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/The List interface/Companies/out/
+/Topics/The List interface/Companies/out/production/classes/

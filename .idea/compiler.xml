@@ -1,55 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="17">
-      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="11" />
-      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="11" />
-      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="11" />
-      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="11" />
-      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
-      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
-      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-ArrayList-Adding_items.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-ArrayList-Concat_positive_numbers.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-ArrayList-How_to_get_an_element_by_the_index.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-ArrayList-Output_the_list's_elements.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-ArrayList-Removing_items.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-ArrayList-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Initializing_long_value.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Safe_converting.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Boxing_and_unboxing-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Comparable-Ratings.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Comparable-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Floating-point_types-Area_of_a_circle.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Floating-point_types-Determine_the_result.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Floating-point_types-Find_X.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Floating-point_types-Statements.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Floating-point_types-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Boxes_are_not_just_objects.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Reusing_code_with_Object.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Lambda_expressions-Creating_a_closure.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Lambda_expressions-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Math_library-Heron's_formula.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Math_library-Pow.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Math_library-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Processing_strings-Convert_a_date.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Processing_strings-Determine_the_value.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Processing_strings-Palindrome.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-Processing_strings-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-The_Collections_Framework_overview-Blacklist.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-The_Collections_Framework_overview-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-The_List_interface-Backward_indexes.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-The_List_interface-Companies.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-The_List_interface-Results_of_operations.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-The_List_interface-Similarities_between_lists_and_arrays.main" target="11" />
-      <module name="Bulls_and_Cows.Topics-The_List_interface-Theory.main" target="11" />
-      <module name="Bulls_and_Cows.util.main" target="11" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17" />
   </component>
 </project>
